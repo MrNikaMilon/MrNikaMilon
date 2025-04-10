@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java and Spring tech stack**
 
-- 💬 Ask me about **Java and PostgreSQL**
+- 💬 Ask me about **Java and Spring(if you need)**
 
 - 📫 How to reach me **sergnikonpav@gmail.com**
 
@@ -26,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnikamilon&show_icons=true&locale=en&layout=compact" alt="mrnikamilon" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrnikamilon&show_icons=true&locale=en" alt="mrnikamilon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrnikamilon&" alt="mrnikamilon" /></p>
