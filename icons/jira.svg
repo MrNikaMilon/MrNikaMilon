@@ -1,0 +1,22 @@
+<svg width="118" height="118" viewBox="0 0 118 118" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="jira">
+<g id="Tech Stack Logos">
+<rect width="118" height="118" rx="16" fill="#1E2235"/>
+</g>
+<g id="jira_2">
+<path id="Vector" d="M104.822 9H56.6677C56.6677 14.7652 58.958 20.2943 63.0346 24.371C67.1112 28.4476 72.6403 30.7379 78.4055 30.7379H87.2762V39.3027C87.284 51.2972 97.0054 61.019 109 61.0268V13.1774C109 10.871 107.13 9 104.822 9Z" fill="#2684FF"/>
+<path id="Vector_2" d="M80.9958 32.9922H32.8413C32.8488 44.9867 42.5701 54.7085 54.5651 54.7163H63.4358V63.3085C63.451 75.303 73.1791 85.0181 85.1736 85.0181V37.1704C85.1736 34.8631 83.3031 32.9926 80.9958 32.9926V32.9922Z" fill="url(#paint0_linear_129_1057)"/>
+<path id="Vector_3" d="M57.1548 56.9727H9C9 68.9782 18.7327 78.7105 30.7378 78.7105H39.6363V87.2749C39.6442 99.2585 49.3487 108.976 61.3326 108.999V61.1505C61.3326 58.8432 59.4621 56.9727 57.1548 56.9727Z" fill="url(#paint1_linear_129_1057)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_129_1057" x1="84.1432" y1="33.0759" x2="63.7834" y2="54.3206" gradientUnits="userSpaceOnUse">
+<stop offset="0.18" stop-color="#0052CC"/>
+<stop offset="1" stop-color="#2684FF"/>
+</linearGradient>
+<linearGradient id="paint1_linear_129_1057" x1="61.6807" y1="57.2094" x2="38.1294" y2="80.3807" gradientUnits="userSpaceOnUse">
+<stop offset="0.18" stop-color="#0052CC"/>
+<stop offset="1" stop-color="#2684FF"/>
+</linearGradient>
+</defs>
+</svg>
