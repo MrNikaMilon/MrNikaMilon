@@ -78,7 +78,6 @@ In my spare time I write pet projects and write my books :) yeah I'm a bit of a 
 - 🔭 I’m currently working on [Schedule University StartUp](https://github.com/techstud-dev)
 
 ### Some statistic
-
 <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api?username=mrnikamilon&theme=dark&show_icons=true" 

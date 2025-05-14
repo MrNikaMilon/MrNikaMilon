@@ -45,6 +45,15 @@ In my spare time I write pet projects and write my books :) yeah I'm a bit of a 
     <img src="./icons/postgresql.svg" alt="PostgreSQL" width="50" height="50" />
   </a>
 
+### Brokers
+  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
+    <img src="./icons/rabbitmq.svg" alt="RabbitMQ" width="50" height="50" />
+  </a>
+
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="./icons/kafka.svg" alt="Kafka" width="50" height="50" />
+  </a>
+
 #### DevOps & CI/CD
   <a href="/icons/java.svg" target="_blank" rel="noreferrer">
     <img src="./icons/docker.svg" alt="Bash" width="50" height="50" />
@@ -52,7 +61,6 @@ In my spare time I write pet projects and write my books :) yeah I'm a bit of a 
   <a href="/icons/java.svg" target="_blank" rel="noreferrer">
     <img src="./icons/kubernetes.svg" alt="Bash" width="50" height="50" />
   </a>
-
   <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
     <img src="./icons/bitbucket.svg" alt="BitBucket" width="50" height="50" />
   </a>
@@ -65,6 +73,27 @@ In my spare time I write pet projects and write my books :) yeah I'm a bit of a 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="./icons/git.svg" alt="Git" width="50" height="50" />
   </a>
+
+#### Management tools
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="./icons/jira.svg" alt="Jira" width="50" height="50" />
+  </a>
+  <a href="https://www.atlassian.com/ru/software/confluence" target="_blank" rel="noreferrer">
+    <img src="./icons/confluence.svg" alt="Confluence" width="50" height="50" />
+  </a>
+  <a href="https://www.jetbrains.com/youtrack/" target="_blank" rel="noreferrer">
+    <img src="./icons/youtrack.svg" alt="YouTrack" width="50" height="50" />
+  </a>
+
+#### Developers tools
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="./icons/intellijidea.svg" alt="IntelliJIdea" width="50" height="50" />
+  </a>
+  <a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer">
+    <img src="./icons/datagrip.svg" alt="DataGrip" width="50" height="50" />
+  </a>
+
+
 
 ### Contact me
 <a href="https://twitter.com/nikon_mr34741" target="blank">
