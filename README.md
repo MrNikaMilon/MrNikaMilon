@@ -78,33 +78,38 @@ In my spare time I write pet projects and write my books :) yeah I'm a bit of a 
 - 🔭 I’m currently working on [Schedule University StartUp](https://github.com/techstud-dev)
 
 ### Some statistic
+<div style="display: flex; flex-direction: column; gap: 16px;">
+  <!-- GitHub Stats -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=mrnikamilon&theme=dark&show_icons=true" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=mrnikamilon&theme=default&show_icons=true" 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=mrnikamilon&theme=default&show_icons=true" 
+      alt="GitHub Stats" 
+      style="width: 100%;"
+    />
+  </picture>
 
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=mrnikamilon&theme=dark&show_icons=true" 
-    media="(prefers-color-scheme: dark)"
-  />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=mrnikamilon&theme=default&show_icons=true" 
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mrnikamilon&theme=default&show_icons=true" 
-    alt="GitHub Stats" 
-  />
-</picture>
-
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mrnikamilon&theme=dark&show_icons=true" 
-    media="(prefers-color-scheme: dark)"
-  />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mrnikamilon&theme=default&show_icons=true" 
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnikamilon&theme=default&show_icons=true" 
-    alt="Top Languages" 
-  />
-</picture>
+  <!-- Top Languages -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mrnikamilon&theme=dark&show_icons=true&layout=compact" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mrnikamilon&theme=default&show_icons=true&layout=compact" 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnikamilon&theme=default&show_icons=true&layout=compact" 
+      alt="Top Languages" 
+      style="width: 100%;"
+    />
+  </picture>
+</div>
