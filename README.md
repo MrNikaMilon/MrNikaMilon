@@ -97,10 +97,13 @@ In my spare time I write pet projects and write my books :) yeah I'm a bit of a 
 
 ### Contact me
 <a href="https://twitter.com/nikon_mr34741" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikon_mr34741" height="30" width="40" />
+    <img align="center" src="/icons/x.svg" alt="nikon_mr34741" height="30" width="40" />
 </a>
-<a href="https://twitter.com/nikon_mr34741" target="blank">
+<a href="sergnikonpav@gmail.com">
     <img align="center" src="/icons/google-gmail.svg" alt="sergnikonpav@gmail.com" height="30" width="40"/>
+</a>
+<a href="https://t.me/nikamilon_mr" target="blank">
+    <img align="center" src="/icons/telegram.svg" alt="nikamilon_mr" height="30" width="40"/>
 </a>
 
 ### Actively developing
