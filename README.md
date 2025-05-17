@@ -11,7 +11,8 @@ I can write a fullstack microservice from scratch on the following stack:
 In my spare time I write pet projects and write my books :) yeah I'm a bit of a writer to boot.
 
 ### Technical stack
-#### Languages and frameworks
+*(click me)*
+#### Languages and Frameworks
   <a href="https://www.java.com/ru/" target="_blank" rel="noreferrer">
     <img src="./icons/java.svg" alt="Java" width="50" height="50" />
   </a>
@@ -73,6 +74,9 @@ In my spare time I write pet projects and write my books :) yeah I'm a bit of a 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="./icons/git.svg" alt="Git" width="50" height="50" />
   </a>
+  <a href="https://render.com/" target="_blank" rel="noreferrer">
+    <img src="./icons/render.svg" alt="Render" width="50" height="50" />
+  </a>
 
 #### Management tools
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
@@ -91,6 +95,12 @@ In my spare time I write pet projects and write my books :) yeah I'm a bit of a 
   </a>
   <a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer">
     <img src="./icons/datagrip.svg" alt="DataGrip" width="50" height="50" />
+  </a>
+  <a href="https://www.warp.dev/" target="_blank" rel="noreferrer">
+    <img src="./icons/warp.svg" alt="Warp" width="50" height="50" />
+  </a>
+  <a href="https://webflow.ngrok.com/" target="_blank" rel="noreferrer">
+    <img src="./icons/ngrok.svg" alt="Ngrok" width="50" height="50" />
   </a>
 
 
