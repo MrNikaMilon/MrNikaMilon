@@ -13,108 +13,77 @@ In my spare time I write pet projects and write my books :) yeah I'm a bit of a 
 ### Technical stack
 *(click me)*
 #### Languages and Frameworks
-  <a href="https://www.java.com/ru/" target="_blank" rel="noreferrer">
-    <img src="./icons/java.svg" alt="Java" width="50" height="50" />
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="./icons/kotlin.svg" alt="Kotlin" width="50" height="50" />
-  </a>
-  <a href="https://learn-markdown.github.io/" target="_blank" rel="noreferrer">
-    <img src="./icons/markdown.svg" alt="Markdown" width="50" height="50" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer">
-    <img src="./icons/bash.svg" alt="Bash" width="50" height="50" />
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="./icons/spring.svg" alt="Spring" width="50" height="50" />
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="./icons/reactjs.svg" alt="Reactjs" width="50" height="50" />
-  </a>
+<p align="left">
+  <img src="./icons/java.svg" alt="Java" width="50" height="50" />
+  <img src="./icons/kotlin.svg" alt="Kotlin" width="50" height="50" />
+  <img src="./icons/markdown.svg" alt="Markdown" width="50" height="50" />
+  <img src="./icons/bash.svg" alt="Bash" width="50" height="50" />
+  <img src="./icons/spring.svg" alt="Spring" width="50" height="50" />
+  <img src="./icons/reactjs.svg" alt="React" width="50" height="50" />
+</p>
+
+🔗 [**Java**](https://www.java.com/ru/) • [**Kotlin**](https://kotlinlang.org/) • [**Markdown**](https://learn-markdown.github.io/) • [**Bash**](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) • [**Spring**](https://spring.io/) • [**Reactjs**](https://react.dev/)
 
 #### Data Base
-  <a href="https://clickhouse.com/" target="_blank" rel="noreferrer">
+  <p align="left">
     <img src="./icons/clickhouse.svg" alt="ClickHouse" width="50" height="50" />
-  </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer">
     <img src="./icons/redis.svg" alt="Redis" width="50" height="50" />
-  </a>
-  <a href="/icons/java.svg" target="_blank" rel="noreferrer">
     <img src="./icons/elastic.svg" alt="Bash" width="50" height="50" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="./icons/postgresql.svg" alt="PostgreSQL" width="50" height="50" />
-  </a>
+  </p>
+
+🔗 [ClickHouse](https://clickhouse.com/) • [Redis](https://redis.io/) • [Elastic](https://www.elastic.co/) • [PostgreSQL](https://www.postgresql.org/)
 
 ### Brokers
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
+  <p align="left">
     <img src="./icons/rabbitmq.svg" alt="RabbitMQ" width="50" height="50" />
-  </a>
-
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="./icons/kafka.svg" alt="Kafka" width="50" height="50" />
-  </a>
+  </p>
+
+🔗 [RabbitMQ](https://www.rabbitmq.com) • [Kafka](https://kafka.apache.org/)
 
 #### DevOps & CI/CD
-  <a href="/icons/java.svg" target="_blank" rel="noreferrer">
+  <p align="left">
     <img src="./icons/docker.svg" alt="Bash" width="50" height="50" />
-  </a>
-  <a href="/icons/java.svg" target="_blank" rel="noreferrer">
     <img src="./icons/kubernetes.svg" alt="Bash" width="50" height="50" />
-  </a>
-  <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
     <img src="./icons/bitbucket.svg" alt="BitBucket" width="50" height="50" />
-  </a>
-  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
     <img src="./icons/gitlab.svg" alt="GitLab" width="50" height="50" />
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="./icons/github.svg" alt="GitHub" width="50" height="50" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="./icons/git.svg" alt="Git" width="50" height="50" />
-  </a>
-  <a href="https://render.com/" target="_blank" rel="noreferrer">
     <img src="./icons/render.svg" alt="Render" width="50" height="50" />
-  </a>
+  </p> 
+
+🔗 [Docker](https://www.docker.com/) • [Kubernetes](https://kubernetes.io/) • [BitBucket](https://bitbucket.org/) • [GitLab](https://about.gitlab.com/) • [GitHub](https://github.com/) • [Git](https://git-scm.com/) • [Render](https://render.com/)
 
 #### Management tools
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+  <p align="left">
     <img src="./icons/jira.svg" alt="Jira" width="50" height="50" />
-  </a>
-  <a href="https://www.atlassian.com/ru/software/confluence" target="_blank" rel="noreferrer">
     <img src="./icons/confluence.svg" alt="Confluence" width="50" height="50" />
-  </a>
-  <a href="https://www.jetbrains.com/youtrack/" target="_blank" rel="noreferrer">
     <img src="./icons/youtrack.svg" alt="YouTrack" width="50" height="50" />
-  </a>
+  </p>
+
+🔗 [Jira](https://www.atlassian.com/software/jira) • [Confluence](https://www.atlassian.com/ru/software/confluence) • [YouTrack](https://www.jetbrains.com/youtrack/)
 
 #### Developers tools
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+  <p align="left">
     <img src="./icons/intellijidea.svg" alt="IntelliJIdea" width="50" height="50" />
-  </a>
-  <a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer">
     <img src="./icons/datagrip.svg" alt="DataGrip" width="50" height="50" />
-  </a>
-  <a href="https://www.warp.dev/" target="_blank" rel="noreferrer">
     <img src="./icons/warp.svg" alt="Warp" width="50" height="50" />
-  </a>
-  <a href="https://webflow.ngrok.com/" target="_blank" rel="noreferrer">
     <img src="./icons/ngrok.svg" alt="Ngrok" width="50" height="50" />
-  </a>
+  </p>
 
-
+🔗 [IntelliJIdea](https://www.jetbrains.com/idea/) • [DataGrip](https://www.warp.dev/) • [Warp](https://www.warp.dev/) • [Ngrok](https://webflow.ngrok.com/)
 
 ### Contact me
-<a href="https://twitter.com/nikon_mr34741" target="blank">
-    <img align="center" src="/icons/x.svg" alt="nikon_mr34741" height="30" width="40" />
-</a>
-<a href="sergnikonpav@gmail.com">
-    <img align="center" src="/icons/google-gmail.svg" alt="sergnikonpav@gmail.com" height="30" width="40"/>
-</a>
-<a href="https://t.me/nikamilon_mr" target="blank">
-    <img align="center" src="/icons/telegram.svg" alt="nikamilon_mr" height="30" width="40"/>
-</a>
+  <p href="https://twitter.com/nikon_mr34741" target="blank">
+    <img align="center" src="/icons/x.svg" alt="nikon_mr34741" height="40" width="40" />
+  </p>
+  <p href="sergnikonpav@gmail.com">
+    <img align="center" src="/icons/google-gmail.svg" alt="sergnikonpav@gmail.com" height="40" width="40"/>
+  </p>
+  <p href="https://t.me/nikamilon_mr" target="blank">
+    <img align="center" src="/icons/telegram.svg" alt="nikamilon_mr" height="40" width="40"/>
+  </p>
 
 ### Actively developing
 - 🔭 I’m currently working on [Schedule University StartUp](https://github.com/techstud-dev)
