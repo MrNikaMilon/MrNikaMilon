@@ -7,10 +7,10 @@ I can write a fullstack microservice from scratch on the following stack:
     
 * Java + Spring Boot + PostgreSQL + React, wrap it all in Docker Container and deploy it via Kubernetes on a hosting like Digital Ocean.
 
-### 🧑‍💻 About me
+### 🧑‍💻 **About me**
 In my spare time I write pet projects and write my books :) yeah I'm a bit of a writer to boot.
 
-### ⚙️ Technical stack
+### ⚙️ **Technical stack**
 *(click me)*
 #### Languages and Frameworks
 <p align="left">
@@ -74,7 +74,7 @@ In my spare time I write pet projects and write my books :) yeah I'm a bit of a 
 
 🔗 [**IntelliJIdea**](https://www.jetbrains.com/idea/) • [**DataGrip**](https://www.warp.dev/) • [**Warp**](https://www.warp.dev/) • [**Ngrok**](https://webflow.ngrok.com/)
 
-### 📬 Contact me
+### 📬 **Contact me**
   <p href="https://twitter.com/nikon_mr34741" target="blank">
     <img align="center" src="/icons/x.svg" alt="nikon_mr34741" height="40" width="40" />
   </p>
@@ -82,10 +82,10 @@ In my spare time I write pet projects and write my books :) yeah I'm a bit of a 
     <img align="center" src="/icons/telegram.svg" alt="nikamilon_mr" height="40" width="40"/>
   </p>
 
-### 🛠 Actively developing
+### 🛠 **Actively developing**
 - 🔭 I’m currently working on [Schedule University StartUp](https://github.com/techstud-dev)
 
-### 📊 Some statistic
+### 📊 **Some statistic**
 <div style="display: flex; flex-direction: column; gap: 16px;">
   <!-- GitHub Stats -->
   <picture>
